@@ -1,1 +1,2 @@
-# CholesterolCalculator-
+# CholesterolCalculator
+This is a quite simple project that i've started in 2019 to help a college friend to calculate and interpret some lipidogram data for his scientific iniciation program (PIC) research. This script did what is supposed to do and i ended up never touching it again. I'm hoping to make something more complex, incluind Martin's formula calculation and maybe do a simple website to start learning python web development with django. Let's see how things goes...
